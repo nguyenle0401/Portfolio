@@ -232,6 +232,10 @@ function Navbar() {
                       Doan Van Bo <br />
                       Ho Chi Minh
                     </li>
+                    <li>
+                      <span class="text-uppercase">Github</span>
+                    <a href ="https://github.com/nguyenle0401" target="_blank">https://github.com/nguyenle0401</a>
+                    </li>
                   </ul>
                 </div>
               </div>
