@@ -108,10 +108,10 @@ function Navbar() {
                       <strong>About Me</strong>
                     </h2>
                   </div>
-                  <p class="lead">
+                  <p>
                   "If you wish to reach the highest, begin at the lowest"
                   </p>
-                  <p class="mb-5  ">
+                  <p>
                    I'm Nguyen Le, innovation is my passion. With every line of code, I strive to make the web a beautiful place.
                   </p>
                 </div>
@@ -195,7 +195,7 @@ function Navbar() {
                       <h4>
                         <strong>Guessing Game</strong>
                       </h4>
-                      r
+                      
                     </div>
                   </div>
                 </div>
