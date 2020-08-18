@@ -108,14 +108,10 @@ function Navbar() {
                     </h2>
                   </div>
                   <p class="lead">
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics, a large language ocean.
+                  "If you wish to reach the highest, begin at the lowest"
                   </p>
                   <p class="mb-5  ">
-                    A small river named Duden flows by their place and supplies
-                    it with the necessary regelialia. It is a paradisematic
-                    country, in which roasted parts of sentences fly into your
-                    mouth.
+                   I'm Chloe Le, innovation is my passion. With every line of code, I strive to make the web a beautiful place.
                   </p>
                 </div>
                 <div class="col-lg-7 pr-lg-5 mb-5 mb-lg-0">
