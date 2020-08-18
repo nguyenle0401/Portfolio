@@ -18,14 +18,15 @@ function Navbar() {
     { key: 9, text: "m" },
     { key: 10, text: "e" },
     { key: 11, text: "\xa0" },
-    { key: 12, text: "C" },
-    { key: 13, text: "h" },
-    { key: 14, text: "l" },
-    { key: 15, text: "o" },
+    { key: 12, text: "N" },
+    { key: 13, text: "g" },
+    { key: 14, text: "u" },
+    { key: 15, text: "y" },
     { key: 16, text: "e" },
-    { key: 17, text: "\xa0" },
-    { key: 18, text: "L" },
-    { key: 19, text: "e" },
+    { key: 17, text: "n" },
+    { key: 18, text: "\xa0" },
+    { key: 19, text: "L" },
+    { key: 10, text: "e" },
   ];
   return (
     <div
@@ -111,7 +112,7 @@ function Navbar() {
                   "If you wish to reach the highest, begin at the lowest"
                   </p>
                   <p class="mb-5  ">
-                   I'm Chloe Le, innovation is my passion. With every line of code, I strive to make the web a beautiful place.
+                   I'm Nguyen Le, innovation is my passion. With every line of code, I strive to make the web a beautiful place.
                   </p>
                 </div>
                 <div class="col-lg-7 pr-lg-5 mb-5 mb-lg-0">
